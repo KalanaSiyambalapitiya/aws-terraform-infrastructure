@@ -1,0 +1,2 @@
+variable "AMI_ID" {
+}
